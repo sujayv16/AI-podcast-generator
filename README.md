@@ -2,6 +2,12 @@
 
 Generate professional podcast scripts and lifelike audio using OpenAI's GPT-3.5-turbo and ElevenLabs Text-to-Speech. This project provides a FastAPI backend and a simple web frontend for instant podcast creation.
 
+## Demo
+
+Check out a demo of this project here:
+
+[Demo Link](https://drive.google.com/file/d/1iMd_CWQUOOhpFZza3dRS0PpO_u9zsi_I/view?usp=drivesdk) 
+
 ## Features
 
 - Generate detailed podcast scripts (500–800 words) on any topic using OpenAI GPT-3.5-turbo.
